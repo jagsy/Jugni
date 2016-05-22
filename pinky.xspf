@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>http://204.107.27.199/live/14.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>BBC One</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://204.107.27.199/live/25.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>BBC Two	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://198.179.30.108:80/live/11.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>ITV 1 London	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://204.107.27.250/live/2.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>Channel 4	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://198.179.30.108:80/live/22.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>Five	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://198.179.30.108:80/live/67.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>ITV2	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://198.179.30.108:80/live/26.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>ITV3	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://204.107.27.199/live/101.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>ITV4	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://204.107.27.250/live/13.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>Film4	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://198.179.30.110/live/1817.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>ITV1+1	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://198.179.30.110/live/1820.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>ITV2+1	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://198.179.30.110/live/1823.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>ITV3+1	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://198.179.30.110/live/1826.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>ITV4+1	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://204.107.27.250/live/371.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>Pick TV	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://204.107.27.250/live/370.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>Dave	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://204.107.27.137/live/97.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>More4	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://198.179.30.110/live/845.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>5USA	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://204.107.27.137/live/65.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>E4	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://198.179.30.110/live/1952.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>CBS ACTION</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://198.179.30.110/live/1805.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>CBS Drama	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://204.107.27.199/live/2707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>QUEST</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://198.179.30.110/live/20.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>Food Network	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://198.179.30.110/live/1829.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>Food Network+1	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://204.107.27.250/live/842.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>Travel Channel+1	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://204.107.27.137/live/97.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>MORE 4</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://198.179.30.110/live/1808.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>CBS Reality	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://198.179.30.110/live/1811.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>CBS Reality+1	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://204.107.27.199/live/1039.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>Yesterday	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://204.107.27.250/live/372.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>Really	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://204.107.27.137/live/27.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>BBC News	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://204.107.27.199/live/1666.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>BBC Parliament	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://204.107.27.199/live/3268.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>BBC WORLD NEWS</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://204.107.27.250/live/4.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>Al Jazeera	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://204.107.27.137/live/93.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>Russia Today	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://204.107.27.137/live/81.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>Bloomberg	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://204.107.27.250/live/1672.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>EuroNews	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://198.179.31.198/live/3223.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>NEWS MAX</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://204.107.27.250/live/1675.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>CCTV News	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://204.107.27.250/live/95.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>4Music	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://204.107.27.250/live/836.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>horror channel	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://198.179.31.197/live/344.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>ComedyTime TV	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://198.179.31.197/live/497.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>COMEDY NET</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://204.107.27.250/live/262.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>Motorz	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://198.179.31.201/live/3062.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>OUTDOOR COOKING</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://198.179.31.197/live/1013.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>Supa Pirate Booty Hunt	</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://204.107.27.250/live/716.high.stream/playlist.m3u8?id=0ad5aac39bb13fbef4ce671f9c580bdc3b144ba01fd1228c0f559aeebcd299ed4312a9783f4f13eafa1f2fd1d0448356ced8c9cd6d076616f3f0e6de5ce4b688b7bd021d77ef613e72891d8970eb0352ce492e9a356654832897830578f0d860f9b87419e59a10f54b157cc407c59b2d92d09f671447a08d3a5ec7aa8cd1646e20c5463f053266c75b579fef27780fb8ba6e99e2cd4ab77a</location>
+			<title>POPCORN TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+			<vlc:item tid="28"/>
+			<vlc:item tid="29"/>
+			<vlc:item tid="30"/>
+			<vlc:item tid="31"/>
+			<vlc:item tid="32"/>
+			<vlc:item tid="33"/>
+			<vlc:item tid="34"/>
+			<vlc:item tid="35"/>
+			<vlc:item tid="36"/>
+			<vlc:item tid="37"/>
+			<vlc:item tid="38"/>
+			<vlc:item tid="39"/>
+			<vlc:item tid="40"/>
+			<vlc:item tid="41"/>
+			<vlc:item tid="42"/>
+			<vlc:item tid="43"/>
+			<vlc:item tid="44"/>
+			<vlc:item tid="45"/>
+	</extension>
+</playlist>
